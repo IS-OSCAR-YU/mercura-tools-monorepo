@@ -1,6 +1,6 @@
 {
   "name": "@mercura/cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "> TODO: description",
   "author": "isguangyuan.yu <isguangyuan.yu@gmail.com>",
   "homepage": "",
@@ -21,7 +21,7 @@
     "prepare": "echo cli"
   },
   "dependencies": {
-    "@mercura/cli-shared-utils": "^1.0.1",
+    "@mercura/cli-shared-utils": "^1.0.2",
     "chalk": "^3.0.0"
   },
   "gitHead": "6fdf4557a40d15b53a5a77d41e55e494a9985d00"
