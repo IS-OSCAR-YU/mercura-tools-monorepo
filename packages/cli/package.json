@@ -17,7 +17,8 @@
     "access": "public"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "prepare": "echo cli"
   },
   "dependencies": {
     "@mercura/cli-shared-utils": "^0.0.3",

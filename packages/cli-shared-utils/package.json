@@ -17,7 +17,8 @@
     "access": "public"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "prepare": "echo cli-shared-utils"
   },
   "dependencies": {
     "chalk": "^3.0.0",
