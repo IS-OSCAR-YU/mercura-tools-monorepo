@@ -22,5 +22,6 @@
   "dependencies": {
     "@mercura/cli-shared-utils": "^0.0.1",
     "chalk": "^3.0.0"
-  }
+  },
+  "gitHead": "e6e2c94672185ae0d749b09945a7e234d5c5ff7f"
 }

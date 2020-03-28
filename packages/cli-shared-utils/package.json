@@ -22,5 +22,6 @@
   "dependencies": {
     "chalk": "^3.0.0",
     "semver": "^7.1.3"
-  }
+  },
+  "gitHead": "e6e2c94672185ae0d749b09945a7e234d5c5ff7f"
 }
