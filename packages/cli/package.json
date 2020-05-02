@@ -18,7 +18,8 @@
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1",
-    "prepare": "echo cli"
+    "prepare": "echo cli",
+    "start": "node index.js"
   },
   "dependencies": {
     "@mercura/cli-shared-utils": "^1.1.3",
