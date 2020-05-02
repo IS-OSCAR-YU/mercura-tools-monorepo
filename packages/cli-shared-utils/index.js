@@ -1,4 +1,6 @@
-module.exports = () => {
-  // --independent
-  console.log('this a tool');
+module.exports = function() {
+  return {
+    name: 'cat',
+    version: '1.10'
+  }
 }
